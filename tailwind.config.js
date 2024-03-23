@@ -5,7 +5,7 @@ export default {
     "./contact.html",
     "./more.html",
     "./projects.html",
-    "resume.html",
+    "./resume.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
